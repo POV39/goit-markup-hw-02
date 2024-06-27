@@ -72,11 +72,12 @@ font-weight: 700;
 
 .page-main-button {
     font-weight: 500;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.04em;
-        color: #fff;
-        background: #4d5ae5;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background-color: #4d5ae5;
+    cursor: pointer;
 }
 
 
